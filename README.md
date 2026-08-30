@@ -99,6 +99,13 @@ _Tools & Infra_
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-lac-chi-65.vercel.app/api?username=jinjuliette&show_icons=true&hide_border=true&count_private=true&cache_seconds=43200" alt="stats" />
+  <img height="165" src="https://github-readme-stats-lac-chi-65.vercel.app/api/top-langs/?username=jinjuliette&layout=compact&hide_border=true&langs_count=8&cache_seconds=172800" alt="top langs" />
+</p>
+
 ### 🏙️ Skyline
 
 <p align="center">
