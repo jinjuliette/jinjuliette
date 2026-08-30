@@ -8,10 +8,10 @@
 
 Hi, I'm Juliette 👋 Engineer working across data, AI, backend and cloud.
 
-🔭 &nbsp;I'm currently working on **designing and building an end-to-end personal data and AI project**  
-🌱 &nbsp;I'm currently learning **Databricks**, and deepening my AI/ML skills  
-👯 &nbsp;I'm looking to collaborate on **projects that make a real difference in everyday life. Not tech for tech's sake.** <!--The kind of work my family, friends, and people around me would relate to-->
-⚡ &nbsp;Fun fact: I'm a big fan of escape games and board games — I approach tech problems the same way
+🔭 &nbsp;I'm currently working on **designing and building my own end-to-end data and AI project**.  
+🌱 &nbsp;I'm currently learning **Databricks**, and deepening my **AI/ML** skills.  
+👯 &nbsp;I'm looking to collaborate on **projects that make a real difference in everyday life. Not tech for tech's sake**.  
+⚡ &nbsp;Fun fact: I'm a big fan of escape games and board games — I approach tech problems the same way.
 
 ### 🛠️ Tech stack
 
